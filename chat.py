@@ -34,4 +34,4 @@ def handleInput(msg):
         return "Sorry, I didn't quite get that. I can help you track orders, answer FAQs, or report an issue."
 
 if __name__ == '__main__':
-    chat.run(debug=True)
+    chat.run()
